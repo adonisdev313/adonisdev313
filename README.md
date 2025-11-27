@@ -1,40 +1,66 @@
-# Hi, I'm Adonis 👋
+# Adonis | Full Stack Developer
 
-Full Stack Developer specializing in building modern web applications with React, Next.js, and Node.js.
+[![GitHub](https://img.shields.io/badge/GitHub-adonisdev313-181717?style=flat&logo=github)](https://github.com/adonisdev313)
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-I'm a passionate full stack developer who loves creating efficient, scalable, and user-friendly web applications. I focus on writing clean code and staying current with the latest technologies in the JavaScript ecosystem.
+Experienced Full Stack Developer specializing in building enterprise-grade web applications using modern JavaScript frameworks and cutting-edge technologies. Proficient in architecting scalable solutions across the entire development stack, from responsive frontend interfaces to robust backend systems and database optimization.
 
-## 💻 Tech Stack
+## 🛠️ Technical Expertise
 
-**Frontend**
-- React.js & Next.js
-- TypeScript & JavaScript
-- HTML5 & CSS3
-- Responsive Design
+### Frontend Development
+- **Frameworks & Libraries:** React.js, Next.js, Remix, Gatsby
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **Core Technologies:** HTML5, CSS3, Responsive & Mobile-First Design
+- **UI/UX:** Modern component architecture, performance optimization
 
-**Backend**
-- Node.js & Express.js
-- RESTful APIs
-- Database Design
+### Backend Development
+- **Runtime & Frameworks:** Node.js, Express.js, Nest.js
+- **API Design:** RESTful APIs, GraphQL
+- **Architecture:** Microservices, Serverless, MVC patterns
+- **Authentication & Security:** JWT, OAuth, API security best practices
 
-**Tools & Technologies**
-- Git & GitHub
-- npm/yarn
-- VS Code
+### Database Management
+- **NoSQL:** MongoDB (Mongoose ODM)
+- **SQL:** MySQL, Database design & optimization
+- **Data Modeling:** Schema design, indexing strategies, query optimization
 
-## 🔭 Current Focus
+### Development Tools & Platforms
+- **Version Control:** Git, GitHub
+- **Package Managers:** npm, yarn, pnpm
+- **IDEs & Editors:** VS Code
+- **AI & Development Tools:**
+  - [Durable](https://durable.co/) - AI-powered website generation
+  - [Lovable](https://lovable.dev/) - Modern development workflows
+  - [Google AI Studio](https://ai.google.dev/) - AI integration and experimentation
+  - Advanced API development and integration
 
-- Building full stack applications with Next.js and Node.js
-- Improving TypeScript expertise
-- Learning best practices in software architecture
+## 🎯 Current Focus
 
-## 📫 Let's Connect
+- Architecting and deploying production-ready full stack applications
+- Implementing advanced TypeScript patterns and best practices
+- Exploring modern AI-powered development tools and APIs
+- Optimizing application performance and scalability
+- Contributing to open-source projects
 
-- GitHub: [@adonisdev313](https://github.com/adonisdev313)
-- Open to collaboration on interesting projects
+## 🚀 Professional Approach
+
+- **Code Quality:** Writing clean, maintainable, and well-documented code
+- **Best Practices:** Following industry standards and modern development patterns
+- **Continuous Learning:** Staying current with emerging technologies and frameworks
+- **Problem Solving:** Delivering efficient solutions to complex technical challenges
+
+## 📫 Get In Touch
+
+I'm always interested in collaborating on innovative projects and discussing new opportunities.
+
+- **GitHub:** [@adonisdev313](https://github.com/adonisdev313)
+- **Open to:** Full-time positions, freelance projects, and technical collaborations
 
 ---
 
-*Always learning, always building* 🌱
+<div align="center">
+
+*Building the future, one commit at a time* 🚀
+
+</div>
