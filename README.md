@@ -27,7 +27,7 @@ Experienced Full Stack Developer specializing in building enterprise-grade web a
 
 ### Development Tools & Platforms
 - **Version Control:** Git, GitHub
-- **Package Managers:** npm, yarn, pnpm
+- **Package Managers:** npm, yarn, pnpm, bun
 - **IDEs & Editors:** VS Code
 - **AI & Development Tools:**
   - [Durable](https://durable.co/) - AI-powered website generation
